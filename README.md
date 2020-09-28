@@ -1,4 +1,4 @@
-# **Universal Category Idendification Standard**
+# **Universal Category Identification Standard**
 
 Categories have been previously considered to be unique to a project and are subject to the tastes of each individual. For example, one person might refer to 'Cast Members' as 'Cast', 'Actors' or 'Talent'. 'Background Performers' might be 'Background', 'Extras' or just 'BG'. When that individual attempts to share their data, this practice can become problematic if the names of the categories are not standardized. 
 
