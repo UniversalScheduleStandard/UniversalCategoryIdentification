@@ -1,5 +1,12 @@
 # **Universal Category Identification Standard**
 
+![GitHub issues](https://img.shields.io/github/issues/thinkcrew/UniversalCategoryIdentification)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/thinkcrew/UniversalCategoryIdentification)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/thinkcrew/UniversalCategoryIdentification?color=yellow)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/thinkcrew/UniversalCategoryIdentification?color=yellow)
+![GitHub Repo stars](https://img.shields.io/github/stars/thinkcrew/UniversalCategoryIdentification?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/thinkcrew/UniversalCategoryIdentification?style=social)
+
 Categories have been previously considered to be unique to a project and are subject to the tastes of each individual. For example, one person might refer to 'Cast Members' as 'Cast', 'Actors' or 'Talent'. 'Background Performers' might be 'Background', 'Extras' or just 'BG'. When that individual attempts to share their data, this practice can become problematic if the names of the categories are not standardized. 
 
 This standard assigns identification numbers to each category type. This allows for an individual to alter the name of a category but still convey the intent of that category when the data is being transferred or processed. Regardless of what you call your actors, the data will refer to that category by its ID number. 
