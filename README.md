@@ -11,7 +11,7 @@ Categories have been previously considered to be unique to a project and are sub
 
 This standard assigns identification numbers to each category type. This allows for an individual to alter the name of a category but still convey the intent of that category when the data is being transferred or processed. Regardless of what you call your actors, the data will refer to that category by its ID number. 
 
-Additionally, categories come in two flavors:
+Additionally, categories come in two flavors...
 
 ## Scene Categories
 
