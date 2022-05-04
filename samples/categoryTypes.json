@@ -32,6 +32,9 @@
     {"id": 121, "name": "Notes"},
     {"id": 122, "name": "Comments"},
     {"id": 123, "name": "Miscellaneous"},
-    {"id": 124, "name": "Other"}
+    {"id": 124, "name": "Other"},
+
+    {"id": 500, "name": "An extended unique category such as puppeteers, precision drivers, etc"},
+    {"id": 501, "name": "Another unique category for this project"}
   ]
 }
