@@ -11,6 +11,8 @@ Historically, categories have been considered to be unique to an individual proj
 
 To solve this issue, the Universal Category Identification Standard assigns immutable identification numbers to each category type. This allows for an individual to alter the name of a category but still convey the intent of that category when the data is being transferred, parsed or stored. Regardless of what you call your actors, the data will refer to that category by its ID number. 
 
+This standard does not in any way negate the ability of individuals to customize their categories to their projects. Categories may be named anything the user wishes to name them. Additionally, the standard allows for the addition of categories that pertain just to a particular project or the tastes of the person who is creating their schedule. See [Extending the Standard](#Extending-the-Standard) for more information about adding categories.  
+
 Additionally, categories come in two flavors:
 
 ## Scene Categories
