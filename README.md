@@ -7,9 +7,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/thinkcrew/UniversalCategoryIdentification?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/thinkcrew/UniversalCategoryIdentification?style=social)
 
-Categories have been previously considered to be unique to a project and are subject to the tastes of each individual. For example, one person might refer to 'Cast Members' as 'Cast', 'Actors' or 'Talent'. 'Background Performers' might be 'Background', 'Extras' or just 'BG'. When that individual attempts to share their data, this practice can become problematic if the names of the categories are not standardized. 
+Historically, categories have been considered to be unique to an individual project and have been subject to the tastes of each individual. For example, different individuals might refer to 'Cast Members' as 'Cast', 'Actors' or 'Talent'. 'Background Performers' might be 'Background', 'Extras' or 'BG'. When those individuals attempt to share their data, this practice can become problematic because the names of their categories had not been standardized. 
 
-This standard assigns identification numbers to each category type. This allows for an individual to alter the name of a category but still convey the intent of that category when the data is being transferred or processed. Regardless of what you call your actors, the data will refer to that category by its ID number. 
+To solve this issue, the Universal Category Identification Standard assigns immutable identification numbers to each category type. This allows for an individual to alter the name of a category but still convey the intent of that category when the data is being transferred, parsed or stored. Regardless of what you call your actors, the data will refer to that category by its ID number. 
 
 Additionally, categories come in two flavors:
 
@@ -42,10 +42,10 @@ Here's a full list of the action categories with their corresponding ID numbers:
     "id": 106, "name": "Wardrobe"    
     "id": 107, "name": "Makeup/Hair" 
     "id": 108, "name": "Animals"     
-    "id": 109, "name": "Animal Wrangler"
-    "id": 110, "name": "Camera"      
-    "id": 111, "name": "Music"       
-    "id": 112, "name": "Sound"       
+    "id": 109, "name": "Animal Wranglers"
+    "id": 110, "name": "Camera"
+    "id": 111, "name": "Music"
+    "id": 112, "name": "Sound"
     "id": 113, "name": "Art Department"
     "id": 114, "name": "Set Dressing"
     "id": 115, "name": "Greenery"    
@@ -54,7 +54,7 @@ Here's a full list of the action categories with their corresponding ID numbers:
     "id": 118, "name": "Additional Labor"
     "id": 119, "name": "Visual Effects"
     "id": 120, "name": "Mechanical Effects"
-    "id": 121, "name": "Notes"       
+    "id": 121, "name": "Notes"
     "id": 122, "name": "Comments"    
     "id": 123, "name": "Miscellaneous" 
     "id": 124, "name": "Other"
@@ -63,13 +63,13 @@ The `name`s of the categories are merely the commonly used versions and are used
 
 ## Maintaining the Intent
 
-The most important part of the category standard is that all of the categories must retain their original intent. Renaming 'Cast Members' to 'Actors' is entirely allowable. But repurposing 'Cast Members' to 'Wagons' and filling it with elements such as 'Horse and Buggy' is not allowed. Maintaining the intent of the category allows for universal transfer of category data between individuals and platforms. 
+The most important part of the category standard is that all of the categories must retain their original intent. Renaming 'Cast Members' to 'Actors' is entirely allowable. But repurposing the 'Cast Members' category to 'Wagons' and filling it with elements such as 'Horse and Buggy' is not allowed. Maintaining the intent of the category allows for universal transfer of category data between individuals and platforms. 
 
 ## Extending the Standard
 
-Note that the ID numbers for scene and action categories have a wide gap between them. The scene category IDs are numbered '0'-'6' and the action categories begin at '100'. This has been done to allow for future extensions of these standardized categories. 
+Note that the ID numbers for scene and action categories have a wide gap between them. The scene category IDs are numbered `0` - `6` and the action categories begin at `100`. This has been done to allow for future extensions of these standardized categories. 
 
-If you need to add custom script categories, they should be assigned IDs starting at '50', but may not exceed '99'. Any custom action categories should be assigned sequential ID numbers beginning at '500'. The ID numbers '0'-'49' and '100'-'499' are reserved for exclusive use by this standard in future expansions.
+If you need to add custom script categories, they should be assigned IDs starting at `50`, but may not exceed `99`. Any custom action categories should be assigned sequential ID numbers beginning at `500`. The ID numbers `0` - `49` and `100` - `499` are reserved for exclusive use by this standard for future expansions.
 
 ## License
 
