@@ -6,6 +6,7 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/universalschedulestandard/UniversalCategoryIdentification?color=yellow)
 ![GitHub Repo stars](https://img.shields.io/github/stars/universalschedulestandard/UniversalCategoryIdentification?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/universalschedulestandard/UniversalCategoryIdentification?style=social)
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 Historically, categories have been considered to be unique to an individual project and have been subject to the tastes of each individual. For example, different individuals might refer to 'Cast Members' as 'Cast', 'Actors' or 'Talent'. 'Background Performers' might be 'Background', 'Extras' or 'BG'. When those individuals attempt to share their data, this practice can become problematic because the names of their categories had not been standardized. 
 
